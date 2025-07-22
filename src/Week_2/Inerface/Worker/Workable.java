@@ -1,4 +1,5 @@
 package src.Week_2.Inerface.Worker;
 
-public class Workable {
+interface Workable {
+    String work();
 }

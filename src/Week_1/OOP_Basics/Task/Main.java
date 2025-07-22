@@ -1,4 +1,4 @@
-package src.Week_1.OOP_Basics;
+package src.Week_1.OOP_Basics.Task;
 
 
 public class Main {

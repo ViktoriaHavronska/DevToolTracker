@@ -1,4 +1,8 @@
 package src.Week_3.EnumTask;
 
-public enum Department {
+enum Department {
+    HR,
+    SALES,
+    IT,
+    MARKETING
 }

@@ -1,4 +1,8 @@
 package src.Week_2.Inerface.Worker;
 
-public class Developer {
+class Developer implements Workable {
+    @Override
+    public String work() {
+        return "Developer: I write code";
+    }
 }

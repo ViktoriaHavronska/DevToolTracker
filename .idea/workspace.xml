@@ -1,29 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="340b3966-1cd1-402d-9b18-9dc0e221365f" name="Changes" comment="" />
+    <list default="true" id="340b3966-1cd1-402d-9b18-9dc0e221365f" name="Changes" comment="Simple Java console app">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Java_Summer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Java_Summer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/JavaBasicsRefresher/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/JavaBasicsRefresher/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/MaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/MaxInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/MethodsArraysStrings/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Intern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Employee/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/OOP_Basics/Task/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/Recall/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/Recall/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/Recall/QueueTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/Recall/QueueTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/Recall/SetTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/Recall/SetTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Collections/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Collections/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/UserAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/UserAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/UserTwoNumbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/ExeptionHandling/UserTwoNumbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Intern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_2/Inerface/Worker/Workable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/EnumTask/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/EnumTask/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/EnumTask/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/EnumTask/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/EnumTask/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/EnumTask/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Generics/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Generics/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Generics/OneMoreGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Generics/OneMoreGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Generics/OneMoreMoreGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Generics/OneMoreMoreGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Library/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Library/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Library/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Library/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Library/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Library/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Library/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Library/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Streams/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Streams/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Streams/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Streams/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Streams/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Streams/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Streams/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Streams/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/Streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/Streams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_3/ThrowThrows/InvalidAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_3/ThrowThrows/InvalidAgeException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ViktoriaHavronska"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/ViktoriaHavronska/DevToolTracker.git",
+    "accountId": "b1f29c12-7c3e-4b1c-9592-e6ee0522352d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2zK4c203iZ6AyuukpHAcNaHZKC5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Book.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Group.executor": "Run",
+    "Application.InvalidAgeException.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainMenu.executor": "Run",
+    "Application.OneMoreGeneric.executor": "Run",
+    "Application.OneMoreMoreGeneric.executor": "Run",
+    "Application.QueueTask.executor": "Run",
+    "Application.SetTask.executor": "Run",
+    "Application.UserAge.executor": "Run",
+    "Application.UserTwoNumbs.executor": "Run",
+    "Application.src.Week_1.MethodsArraysStrings.Main.executor": "Run",
+    "Application.src.Week_1.OOP_Basics.Employee.Main.executor": "Run",
+    "Application.src.Week_1.OOP_Basics.Main.executor": "Run",
+    "Application.src.Week_2.Collections.Main.executor": "Run",
+    "Application.src.Week_2.Inerface.Worker.Main.executor": "Run",
+    "Application.src.Week_3.Library.main.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/vhavronska/Downloads/Learning_Java_Summer/src/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MainMenu">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.Streams.Example" />
+      <module name="Learning_Java_Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Week_3.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidAgeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.ThrowThrows.InvalidAgeException" />
+      <module name="Learning_Java_Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Week_3.ThrowThrows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.Streams.Main" />
+      <module name="Learning_Java_Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Week_3.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_4.DevToolTracker.controller.MainMenu" />
+      <module name="Learning_Java_Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Week_4.DevToolTracker.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.Week_3.Library.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.Library.main.Main" />
+      <module name="Learning_Java_Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Week_3.Library.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainMenu" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.src.Week_3.Library.main.Main" />
+        <item itemvalue="Application.InvalidAgeException" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -40,10 +217,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751466507095</updated>
+      <workItem from="1751466508076" duration="46888000" />
     </task>
+    <task id="LOCAL-00001" summary="Simple Java console app">
+      <option name="closed" value="true" />
+      <created>1753205918010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753205918010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Simple Java console app">
+      <option name="closed" value="true" />
+      <created>1753206132976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753206132976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simple Java console app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Java console app" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
