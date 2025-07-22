@@ -1,5 +1,4 @@
 package src.Week_4.DevToolTracker.model;
-
 import java.util.Objects;
 
 public class DevTool {
