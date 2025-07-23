@@ -1,4 +1,4 @@
-# DevToolTracker
+# Java Learning Journey
 
 This repository contains a structured **Java learning journay**, broken into weeks, with exercises, projects, and mini-apps built to develop core skills.
 
