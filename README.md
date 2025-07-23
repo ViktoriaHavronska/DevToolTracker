@@ -9,10 +9,10 @@ Main idea of this month is the **Week_4 mini-project**: 'DevToolTracker' 👇�
 
 ## 📚 Repository Structure
 Learning_Java_Summer/
-├── Week_1/ # Java Basics, OOP, Strings, Arrays
-├── Week_2/ # Exceptions, Collections, Java 8
-├── Week_3/ # File I/O, MVC, Generics, Streams
-├── Week_4/ # 🛠 DevToolTracker project (MVC mini app)
+ - Week_1/ # Java Basics, OOP, Strings, Arrays
+ - Week_2/ # Exceptions, Collections, Java 8
+ - Week_3/ # File I/O, MVC, Generics, Streams
+ - Week_4/ # 🛠 DevToolTracker project (MVC mini app)
 
 
 ## 🔧 DevToolTracker (Week 4 Project)
